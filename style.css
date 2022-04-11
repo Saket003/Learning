@@ -1,0 +1,27 @@
+*{
+    background-color: #252526;
+    color:azure;
+    font-family: 'Fredoka', sans-serif;
+}
+
+body{
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+}
+
+h1, h2, h3{
+    line-height: 1.2;
+}
+
+a{
+    color: #5a8ad6;
+}
+
+.YT{
+    color: #cc0000
+}
+
+.W3{
+    color: #4caf50
+}
