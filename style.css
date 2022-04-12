@@ -5,9 +5,8 @@
 }
 
 body{
-    position: absolute;
-    left : 50px;
-    /*margin: 40px auto;*/
+    position: relative;
+    margin: 40px 50px;
     /*max-width: 650px;*/
     line-height: 1.4;
 }
