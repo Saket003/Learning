@@ -1,6 +1,8 @@
+/*clear up code*/
+
 *{
     background-color: #252526;
-    color:azure;
+    color:#f0ffff;
     font-family: 'Fredoka', sans-serif;
 }
 
@@ -21,20 +23,16 @@ a{
     color: #5a8ad6;
 }
 
-.YT{
-    color: #cc0000
-}
-
-.W3{
-    color: #4caf50
-}
-
 .T1{
     font-size: 50px;
     position: relative;
     text-align: center;
 }
 
-.b1{
+.white{
+    color: #f0ffff
+}
 
+.nobreak{
+    display:inline
 }
