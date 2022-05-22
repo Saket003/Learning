@@ -1,6 +1,6 @@
 *{
     background-color: #252526;
-    color:azure;
+    color:#f0ffff;
     font-family: 'Fredoka', sans-serif;
 }
 
@@ -35,6 +35,6 @@ a{
     text-align: center;
 }
 
-.b1{
-
+.white{
+    color: #f0ffff
 }
