@@ -1,3 +1,5 @@
+/*clear up code*/
+
 *{
     background-color: #252526;
     color:#f0ffff;
@@ -19,14 +21,6 @@ h1, h2, h3{
 
 a{
     color: #5a8ad6;
-}
-
-.YT{
-    color: #cc0000
-}
-
-.W3{
-    color: #4caf50
 }
 
 .T1{
